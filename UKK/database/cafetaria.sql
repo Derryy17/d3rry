@@ -1,4 +1,5 @@
 create database cafetaria;
+use cafetaria;
 CREATE TABLE kantin (
   id INT AUTO_INCREMENT PRIMARY KEY,
   nama VARCHAR(100),
