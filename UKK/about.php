@@ -1,10 +1,9 @@
 <?php include 'inc/header.php'; ?>
 
-<!-- Main Content -->
 <div class="container py-5">
   <div class="row justify-content-center">
     <div class="col-md-10">
-      <!-- About Card -->
+      
       <div class="card border-0 shadow-lg mb-5">
         <div class="card-body p-4">
           <div class="row align-items-center">
@@ -24,7 +23,6 @@
         </div>
       </div>
 
-      <!-- Video Section -->
       <div class="card border-0 shadow-lg">
         <div class="card-body p-4">
           <h3 class="text-center mb-4 text-primary">
